@@ -17,5 +17,7 @@ Features:
 Requirements:
 
 -Python 3.x
+
 -Tkinter
+
 -Pillow(PIL)
