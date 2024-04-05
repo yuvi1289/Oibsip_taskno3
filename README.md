@@ -1,23 +1,19 @@
 # Random Password Generator
 
-Description:
+## Description
 
-Creating an advanced random password generator with a graphical user interface (GUI) using Tkinter. Enhance it by including options for password complexity, adherence to security rules, and can copy the password.
+This Random Password Generator is a graphical user interface application built using Tkinter, aimed at generating strong and secure passwords based on user preferences. It offers various customization options such as password length, inclusion of uppercase/lowercase letters, digits, and special characters. Additionally, it provides a password strength indicator to evaluate the generated password's robustness.
 
-Features:
+## Features
 
-  Password Length: Users can specify the length of the password they want to generate.
-  
-  Include Uppercase/Lowercase Letters: Users can choose whether to include uppercase and/or lowercase letters in       the generated password.
-  
-  Include Digits and Special Characters: Users can also specify the number of digits and special characters they       want to include in the password.
-  
-  Password Strength Indicator: The application provides a password strength indicator that evaluates the generated      password's strength based on criteria such as length, character types, etc.
+- **Password Length:** Users can specify the desired length of the generated password.
+- **Include Uppercase/Lowercase Letters:** Users have the option to include uppercase and/or lowercase letters.
+- **Include Digits and Special Characters:** Users can specify the number of digits and special characters to include.
+- **Password Strength Indicator:** The application evaluates the generated password's strength based on various criteria.
 
-Requirements:
+## Requirements
 
-  -Python 3.x
+- Python 3.x
+- Tkinter
+- Pillow (PIL)
 
-  -Tkinter
-
-  -Pillow(PIL)
