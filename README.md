@@ -13,3 +13,9 @@ Features:
   Include Digits and Special Characters: Users can also specify the number of digits and special characters they       want to include in the password.
   
   Password Strength Indicator: The application provides a password strength indicator that evaluates the generated      password's strength based on criteria such as length, character types, etc.
+
+Requirements:
+
+-Python 3.x
+-Tkinter
+-Pillow(PIL)
